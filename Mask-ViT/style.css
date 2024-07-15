@@ -1,0 +1,38 @@
+ /* static/style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+title {
+    color:blueviolet;
+}
+h1 {
+    color:blue;
+    text-align: center;
+
+    
+}
+
+form {
+    margin: 20px 0;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
+body {
+    color:purple;
+}
+.image-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content; /* Adjust as needed */
+    align-items: center;
+}
+#vd{
+    color:orangered;
+}
+#sb{
+    color:darkblue;
+}
